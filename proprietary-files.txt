@@ -6,7 +6,9 @@ product/etc/res/images/charger/battery_fail.png
 product/etc/res/images/charger/battery_scale.png
 product/etc/res/images/charger/main_font.png
 product/etc/res/values/charger/animation.txt
+product/etc/sysconfig/google-hiddenapi-package-whitelist.xml
 product/etc/sysconfig/google.xml:product/etc/sysconfig/pixel.xml
+product/etc/sysconfig/pixel_experience_2017.xml
 product/etc/fonts_customization.xml
 product/fonts/GoogleSans-BoldItalic.ttf
 product/fonts/GoogleSans-Bold.ttf
@@ -81,4 +83,5 @@ product/media/audio/ui/VideoRecord.ogg
 product/media/audio/ui/VideoStop.ogg
 product/media/audio/ui/WirelessChargingStarted.ogg
 -product/priv-app/DevicePersonalizationPrebuiltPixel2020/DevicePersonalizationPrebuiltPixel2020.apk;PRESIGNED
+-product/priv-app/SCONE/SCONE.apk;PRESIGNED
 -product/priv-app/SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk;PRESIGNED;OVERRIDES=SettingsIntelligence
