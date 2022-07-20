@@ -24,4 +24,6 @@
     "com.android.systemui,com.android.xyz" -->
     <string translatable="false" name="config_cameraProtectionExcludedPackages">com.google.android.as</string>
 
+    <string name="config_preferredEmergencySosPackage">com.google.android.apps.safetyhub</string>
+
 </resources>

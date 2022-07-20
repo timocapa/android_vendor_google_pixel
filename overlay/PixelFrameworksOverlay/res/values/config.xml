@@ -72,6 +72,9 @@
     -->
     <string name="config_defaultAttentionService" translatable="false">com.google.android.as/com.google.android.apps.miphone.aiai.attention.service.AiAiAttentionService</string>
 
+    <!-- Package name that provides Emergency Dialer -->
+    <string name="config_emergency_dialer_package" translatable="false">com.google.android.apps.safetyhub</string>
+
     <!-- The package name for the system's augmented autofill service.
          This service must be trusted, as it can be activated without explicit consent of the user.
          If no service with the specified name exists on the device, augmented autofill wil be

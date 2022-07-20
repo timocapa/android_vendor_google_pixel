@@ -108,4 +108,6 @@ PRODUCT_PACKAGES += \
     SettingsIntelligenceGooglePrebuilt \
     TurboPrebuilt \
     Flipendo \
-    TurboAdapter
+    TurboAdapter \
+    SafetyHubPrebuilt \
+    EmergencyInfoGoogleNoUi
